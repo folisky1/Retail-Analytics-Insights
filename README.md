@@ -1,7 +1,11 @@
 **OVERVIEW**
+
+
 This project explores the customer transaction data of an online retail shop to identify sales patterns and consumer behavior. The data analysis focuses on the age and gender of customers, their payment preferences, peak periods for revenues and purchases, and customer engagement metrics like browser preferences, website engagement, and newsletter subscriptions. The results of this analysis aim to inform the retail shop on how to optimize their sales strategy.
 
 **DATA SOURCE**
+
+
 The data used for this analysis was obtained from Kaggle. The dataset contains transactional information like customer age, gender, payment method, voucher usage, purchase value, and website engagement.
 
 **RESULTS**
@@ -18,7 +22,11 @@ January is the peak period for both revenues and purchases, followed by May and 
 Customers spend an average of 599 seconds on the website, and the most preferred browser for transactions is Chrome. However, only 15.1% of customers subscribed to the retail shop's newsletter, and our analysis shows that newsletter subscription is negatively correlated with customer spending behavior.
 
 **RECOMMENDATIONS**
+
+
 Based on our analysis, we recommend the following:
+
+
 
 1. To increase customer engagement and patronage, the retail shop should develop targeted marketing strategies for young adults (16-29), conduct research to understand why female customers outnumber males, and use the research findings to develop marketing strategies to improve the engagement and patronage of male customers.
 
@@ -29,4 +37,6 @@ Based on our analysis, we recommend the following:
 4. the retail should focus on optimizing the website for Chrome since it is the most preferred browser for transactions, and consider alternative marketing strategies since Newsletter has been shown to be an ineffective tool for increasing purchases and revenue. Additionally, the shop could consider implementing a loyalty program to incentivize repeat purchases and increase customer retention.
 
 **CONCLUSION**
+
+
 In conclusion, our analysis of customer transaction data provides valuable insights into sales patterns and consumer behavior. By optimizing their sales strategy based on these insights, the online retail shop can increase customer retention and drive sales growth.
