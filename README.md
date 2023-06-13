@@ -9,17 +9,15 @@ This project explores the customer transaction data of an online retail shop to 
 The data used for this analysis was obtained from Kaggle. The dataset contains transactional information like customer age, gender, payment method, voucher usage, purchase value, and website engagement.
 
 **RESULTS**
-1. Age and Gender of Majority Customers
- Our analysis shows that there are a total of 65.8K customers,where majority of them are adults aged 30-49, with 27.5K customers in this range. Gender-wise, there is a ith a higher proportion of female customers compared to males.
 
-2. Payment Method Preferences
-The most preferred payment method among customers is card payments, followed by digital wallets, while only a small percentage of customers use vouchers for payment.
 
-3. Peak Periods for Revenues and Purchases
-January is the peak period for both revenues and purchases, followed by May and October. The retail shop recorded an annual total revenue of $1.82M, with a total purchase of 267K and an average purchase value of $15.67.
+1. Age and Gender of Majority Customers - Our analysis shows that there are a total of 65.8K customers,where majority of them are adults aged 30-49, with 27.5K customers in this range. Gender-wise, there is a ith a higher proportion of female customers compared to males.
 
-4. Customer Engagement Metrics
-Customers spend an average of 599 seconds on the website, and the most preferred browser for transactions is Chrome. However, only 15.1% of customers subscribed to the retail shop's newsletter, and our analysis shows that newsletter subscription is negatively correlated with customer spending behavior.
+2. Payment Method Preferences - The most preferred payment method among customers is card payments, followed by digital wallets, while only a small percentage of customers use vouchers for payment.
+
+3. Peak Periods for Revenues and Purchases - January is the peak period for both revenues and purchases, followed by May and October. The retail shop recorded an annual total revenue of $1.82M, with a total purchase of 267K and an average purchase value of $15.67.
+
+4. Customer Engagement Metrics - Customers spend an average of 599 seconds on the website, and the most preferred browser for transactions is Chrome. However, only 15.1% of customers subscribed to the retail shop's newsletter, and our analysis shows that newsletter subscription is negatively correlated with customer spending behavior.
 
 **RECOMMENDATIONS**
 
